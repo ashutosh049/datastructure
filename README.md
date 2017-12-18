@@ -2,18 +2,20 @@
 --------------------------------------------------------------
 Basic  data structure, algorithm, coding and design questions.
 --------------------------------------------------------------
- 1.Arrays and Strings
+ <ul>
+ 	<li>Arrays and Strings</li>
+ 	<li>Linked List</li>
+ 	<li>Stack and Queues</li>
+ 	<li>Trees and Graphs</li>
+ 	<li>Bit manipulation</li>
+ 	<li>Recursion</li>
+ 	<li>Sorting and Searching</li>
+ 	<li>Threads and Locks</li>
+ </ul>
  
- 2.Linked List
- 
- 3.Stack and Queues
- 
- 4.Trees and Graphs
- 
- 5.Bit manipulation
- 
- 6.Recursion
- 
- 7.Sorting and Searching
- 
- 8.Threads and Locks
+<b>This repository can directly be imported into eclipse.</b>
+</br></br>
+<code>These are most frequently asked interview question and can be used for reference purpose. Please be advised, that solutions and codes might not be perfect and there is always a scope for improvement. Reference has been taken from  <u>http://www.geeksforgeeks.org</u>
+ and some other important sites. Some of the them have been compiled here.
+ Any error and bugs are welcomed. Please comment for the same.
+</code>
