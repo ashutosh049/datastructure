@@ -15,7 +15,10 @@ Basic  data structure, algorithm, coding and design questions.
  
 <b>This repository can directly be imported into eclipse.</b>
 </br></br>
-<code>These are most frequently asked interview question and can be used for reference purpose. Please be advised, that solutions and codes might not be perfect and there is always a scope for improvement. Reference has been taken from  <u>http://www.geeksforgeeks.org</u>
+<code>These are most frequently asked interview question and can be used for reference purpose. Please be advised, that solutions and codes might not be perfect and there is always a scope for improvement. Reference has been taken from  
+ - [geeksforgeeks](http://www.geeksforgeeks.org)
+ - [hackerrank](https://www.hackerrank.com/)
+
  and some other important sites. Some of the them have been compiled here.
  Any error and bugs are welcomed. Please comment for the same.
 </code>
